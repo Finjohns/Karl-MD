@@ -1,1 +1,57 @@
-function _0x452a(){var _0xb5a558=['uptime','60298QIVLGu','2oHpjql','\x20hour,\x20','floor','155058RlMPfb','\x20m,\x20','7580MeFTfJ','52338BUKukn','&dimension=720x720','sendMessage','length','4FyBbOX','261vvqgcn','\x20d,\x20','2684682wjkLOm','join','General','moment-timezone','\x20day,\x20','222653fusydI','2159904drEpfT','screenshots\x20website','\x20second','https://api.screenshotmachine.com/?key=c04d3a&url=','\x20h,\x20','65fnrFYT','*_𝐉𝚰𝚴𝐖𝚰𝚰𝐋\x20𝗞𝗔𝗥𝗟🕷️🕸️ \x20𝐌𝐃\x20uptime\x20\x20𝐢𝐬:\x20','To\x20check\x20runtime','true','328SVKnVr'];_0x452a=function(){return _0xb5a558;};return _0x452a();}function _0x3f25(_0x2a5367,_0xdb4eab){var _0x452a84=_0x452a();return _0x3f25=function(_0x3f250d,_0x27b764){_0x3f250d=_0x3f250d-0x19e;var _0x4b1817=_0x452a84[_0x3f250d];return _0x4b1817;},_0x3f25(_0x2a5367,_0xdb4eab);}var _0x3cfb5d=_0x3f25;(function(_0xb6e83,_0xcce95f){var _0x31b2d8=_0x3f25,_0x150c9f=_0xb6e83();while(!![]){try{var _0x3a2096=parseInt(_0x31b2d8(0x1b5))/0x1*(parseInt(_0x31b2d8(0x1a3))/0x2)+-parseInt(_0x31b2d8(0x1a6))/0x3*(parseInt(_0x31b2d8(0x1ad))/0x4)+-parseInt(_0x31b2d8(0x1bb))/0x5*(-parseInt(_0x31b2d8(0x1a9))/0x6)+-parseInt(_0x31b2d8(0x1a2))/0x7*(parseInt(_0x31b2d8(0x1a0))/0x8)+-parseInt(_0x31b2d8(0x1ae))/0x9*(parseInt(_0x31b2d8(0x1a8))/0xa)+parseInt(_0x31b2d8(0x1b0))/0xb+parseInt(_0x31b2d8(0x1b6))/0xc;if(_0x3a2096===_0xcce95f)break;else _0x150c9f['push'](_0x150c9f['shift']());}catch(_0x309bec){_0x150c9f['push'](_0x150c9f['shift']());}}}(_0x452a,0x515d0));const {zokou}=require('../framework/zokou'),moment=require(_0x3cfb5d(0x1b3)),{getBuffer}=require('../framework/dl/Function'),{default:axios}=require('axios'),runtime=function(_0x194c92){var _0x2e73c2=_0x3cfb5d;_0x194c92=Number(_0x194c92);var _0x3fb89e=Math[_0x2e73c2(0x1a5)](_0x194c92/(0xe10*0x18)),_0x3972a3=Math[_0x2e73c2(0x1a5)](_0x194c92%(0xe10*0x18)/0xe10),_0x30f057=Math[_0x2e73c2(0x1a5)](_0x194c92%0xe10/0x3c),_0x5dfe25=Math[_0x2e73c2(0x1a5)](_0x194c92%0x3c),_0x63517a=_0x3fb89e>0x0?_0x3fb89e+(_0x3fb89e==0x1?_0x2e73c2(0x1b4):_0x2e73c2(0x1af)):'',_0x3143ae=_0x3972a3>0x0?_0x3972a3+(_0x3972a3==0x1?_0x2e73c2(0x1a4):_0x2e73c2(0x1ba)):'',_0x30d7d9=_0x30f057>0x0?_0x30f057+(_0x30f057==0x1?'\x20minute,\x20':_0x2e73c2(0x1a7)):'',_0x80cf31=_0x5dfe25>0x0?_0x5dfe25+(_0x5dfe25==0x1?_0x2e73c2(0x1b8):'\x20s'):'';return _0x63517a+_0x3143ae+_0x30d7d9+_0x80cf31;};zokou({'nomCom':_0x3cfb5d(0x1a1),'desc':_0x3cfb5d(0x19e),'Categorie':_0x3cfb5d(0x1b2),'reaction':'☆','fromMe':_0x3cfb5d(0x19f)},async(_0x4c8a5a,_0x166ee0,_0x3ca46b)=>{var _0x21a430=_0x3cfb5d;const {ms:_0x17f049,arg:_0x136ec6,repondre:_0x48327e}=_0x3ca46b;await _0x48327e(_0x21a430(0x1bc)+runtime(process[_0x21a430(0x1a1)]())+'_*');}),zokou({'nomCom':'ss','desc':_0x3cfb5d(0x1b7),'Categorie':_0x3cfb5d(0x1b2),'reaction':'👀','fromMe':_0x3cfb5d(0x19f)},async(_0x3944b2,_0x53ba6f,_0x59b2f7)=>{var _0xf70245=_0x3cfb5d;const {ms:_0x2a3fda,arg:_0xa77793,repondre:_0x4d469a}=_0x59b2f7;if(!_0xa77793||_0xa77793[_0xf70245(0x1ac)]===0x0)return _0x4d469a('provide\x20a\x20link...');const _0x1e1c0c=_0xa77793[_0xf70245(0x1b1)]('\x20');let _0x2f1fe2=_0xf70245(0x1b9)+encodeURIComponent(_0x1e1c0c)+_0xf70245(0x1aa),_0x45dc9d=await getBuffer(_0x2f1fe2);await _0x53ba6f[_0xf70245(0x1ab)](_0x3944b2,{'image':_0x45dc9d,'caption':'𝑾𝒆𝒃\x20𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕\x20𝒃𝒚\x20*𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒\x20𝐌𝐃*'},{'quoted':_0x2a3fda});});
+const { zokou } = require("../framework/zokou");
+const speed = require("performance-now");
+
+// Function to simulate delay
+function delay(ms) {
+  console.log(`⏱️ Delay for ${ms}ms`);
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+// Format the uptime into a human-readable string
+function runtime(seconds) {
+  const hours = Math.floor(seconds / 3600);
+  const minutes = Math.floor((seconds % 3600) / 60);
+  const secondsLeft = Math.floor(seconds % 60);
+
+  return `${hours}h ${minutes}m ${secondsLeft}s`;
+}
+
+// Zokou command for checking uptime
+zokou({
+  nomCom: 'uptime',
+  aliases: ['runtime', 'running'],
+  desc: 'To check runtime',
+  Categorie: 'system',
+  reaction: '⚔️',
+  fromMe: 'true',
+}, async (dest, zk, commandeOptions) => {
+  const { ms, arg, repondre } = commandeOptions;
+
+  // Get bot's runtime
+  const botUptime = process.uptime(); // Get the bot uptime in seconds
+
+  // Send uptime information to the user
+  await zk.sendMessage(dest, {
+    text: "🗡️ Karl Md ⚔️",
+    contextInfo: {
+      externalAdReply: {
+        title: "🗡️ KARL-MD ⚔️ UPTIME",
+        body: `Bot Uptime: ${runtime(botUptime)}`, // Format the uptime before sending
+        thumbnailUrl: "https://files.catbox.moe/kd7957.jpg", // Replace with your bot profile photo URL
+        sourceUrl: "https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N", // Your channel URL
+        mediaType: 1,
+        showAdAttribution: true, // Verified badge
+      },
+    },
+  });
+
+  console.log("Runtime results sent successfully with new loading animation and formatted results!");
+
+  // Ensure loading animation completes after sending the uptime message
+  await delay(ms);  // Await the delay to simulate the loading animation
+});
+
+// React function to allow interaction after sending message
+function react(dest, zk, msg, reaction) {
+  zk.sendMessage(dest, { react: { text: reaction, key: msg.key } });
+}
