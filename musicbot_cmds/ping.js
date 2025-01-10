@@ -1,4 +1,4 @@
-const { zokou } = require("../framework/zokou");
+const { zokou } = require("../keizzah/zokou");
 const speed = require("performance-now");
 
 // Function for delay simulation
@@ -27,7 +27,7 @@ async function loading(dest, zk) {
 }
 
 // Command: Ping
-keith(
+zokou(
   {
     nomCom: 'ping',
     aliases: ['speed', 'latency'],
@@ -44,14 +44,14 @@ keith(
     const pingResults = Array.from({ length: 3 }, () => Math.floor(Math.random() * 10000 + 1000));
 
     // Create larger font for ping results (using special characters for a bigger look)
-    const formattedResults = pingResults.map(ping => `𝗞𝗔𝗥𝗟 𝗠𝗗  ${ping} 𝐌/𝐒  `);
+    const formattedResults = pingResults.map(ping => `KARL-MD SPEED  ${ping} 𝐌/𝐒  `);
 
     // Send the ping results with the updated text and format
     await zk.sendMessage(dest, {
-      text: "🗡️Alpha Md⚔️",
+      text: "KARL MD",
       contextInfo: {
         externalAdReply: {
-          title: "🗡️KARL-MD⚔️",
+          title: "KARL MD",
           body: `${formattedResults.join(" | ")}`,
           thumbnailUrl: "https://files.catbox.moe/kd7957.jpg", // Replace with your bot profile photo URL
           sourceUrl: "https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N", // Your channel URL
@@ -71,4 +71,4 @@ keith(
 // React function if needed for further interaction
 function react(dest, zk, msg, reaction) {
   zk.sendMessage(dest, { react: { text: reaction, key: msg.key } });
-       }
+}
