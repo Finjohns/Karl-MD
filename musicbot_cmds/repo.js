@@ -60,7 +60,7 @@ zokou({
             const releaseDate = new Date(repoData.created_at).toLocaleDateString('en-GB');
             const message = `
             *Hello ,,,👋This is KARL-MD*
-            the best bot in the universe developed by KARL Kᴇɪᴢᴢᴀʜ,,fork and give a star 🌟 to my repo
+            the best bot in the universe developed by KARL TECH,,fork and give a star 🌟 to my repo
      ╭────────────────
      │✞  *Stars:* - ${repoInfo.stars}
      │✞  *Forks:* - ${repoInfo.forks}
