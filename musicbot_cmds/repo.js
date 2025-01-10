@@ -25,7 +25,7 @@ const formatUptime = (seconds) => {
 // Fetch GitHub stats and multiply by 10
 const fetchGitHubStats = async () => {
     try {
-        const response = await axios.get("https://api.github.com/repos/framework/KARL-MD");
+        const response = await axios.get("https://api.github.com/repos/Finjohns/Karl-MD/");
         const forksCount = response.data.forks_count * 10; // Multiply forks by 10
         const starsCount = response.data.stargazers_count * 10; // Multiply stars by 10
         const totalUsers = forksCount + starsCount; // Assuming totalUsers is just the sum
@@ -45,7 +45,7 @@ zokou({
     const { repondre, auteurMessage } = context;
 
     try {
-        const response = await axios.get("https://api.github.com/repos/framework/KARL-MD");
+        const response = await axios.get("https://api.github.com/repos/Finjohns/Karl-MD/");
         const repoData = response.data;
 
         if (repoData) {
@@ -59,14 +59,14 @@ zokou({
 
             const releaseDate = new Date(repoData.created_at).toLocaleDateString('en-GB');
             const message = `
-            *Hello ,,,👋This is 𝗞𝗔𝗥𝗟-𝐌𝐃*
-            the best bot in the universe developed by Jinwiil Onginjo,,fork and give a star 🌟 to my repo
+            *Hello ,,,👋This is KARL-MD*
+            the best bot in the universe developed by KARL Kᴇɪᴢᴢᴀʜ,,fork and give a star 🌟 to my repo
      ╭────────────────
      │✞  *Stars:* - ${repoInfo.stars}
      │✞  *Forks:* - ${repoInfo.forks}
      │✞  *Release date:* - ${releaseDate}
      │✞  *Repo:* - ${repoData.html_url}
-     │✞  *Owner:*   *Jinwiil Onginjo*
+     │✞  *Owner:*   *KARL TECH*
      ╰─────────────────── `;
 
             await reply.sendMessage(command, {
@@ -74,10 +74,10 @@ zokou({
                 contextInfo: {
                     mentionedJid: [auteurMessage],
                     externalAdReply: {
-                        title: "✨𝗞𝗔𝗥𝗟-𝗠𝗗🌟",
-                        body: "POWERED BY JINWIIL",
-                        thumbnailUrl: "https://files.catbox.moe/kd7957.jpg",
-                        sourceUrl: "https://whatsapp.com/channel/0029VaxZbeSDTkJwBgUb9u3N",
+                        title: "KARL-MD🌟",
+                        body: "POWERED BY KARL",
+                        thumbnailUrl: "https://i.imgur.com/q7nH7wI.jpeg",
+                        sourceUrl: "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47",
                         mediaType: 1,
                         renderLargerThumbnail: true
                     }
