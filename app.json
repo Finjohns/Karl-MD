@@ -62,11 +62,11 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :false
+     "required" :true
     },
   "HEROKU_APP_NAME": {
     "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :false
+     "required" :true
     }  
 	  ,
     "SESSION_ID":
